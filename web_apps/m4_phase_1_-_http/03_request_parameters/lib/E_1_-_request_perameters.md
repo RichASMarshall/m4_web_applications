@@ -22,7 +22,7 @@ You'll note that Postman automatically added the parameters at the end of the UR
 Solution video - https://www.youtube.com/watch?v=zwU6SpTwuxY&t=420s&ab_channel=LeoHetsch
 
 
-Output is:
+My output is:
 
 ```json
 {
@@ -43,3 +43,4 @@ Output is:
     "url": "https://postman-echo.com/get?title=Welcome"
 }
 ```
+My End.
